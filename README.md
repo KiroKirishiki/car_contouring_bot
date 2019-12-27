@@ -7,8 +7,10 @@
     * main.py - "мейн" код самого бота
 # Запуск проекта
 Для запуска проекта потребуются следующие модули
-`* pyTelegramBotAPI
+`
+* pyTelegramBotAPI
 * opencv (cv2)
-* numpy`
+* numpy
+`
 
 Также для корректной работы бота могут потребоваться последнии версии следующих модулей `gunicorn, PySocks, requests, urllib3`.
